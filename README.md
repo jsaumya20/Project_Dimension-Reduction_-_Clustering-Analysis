@@ -1,4 +1,7 @@
-# Project_Dimension-Reduction_&_Clustering-Analysis
+# Project: Dimension Reduction & Clustering-Analysis on the Housing Dataset
+
+![image](https://user-images.githubusercontent.com/91350558/208846735-d0e08b1a-8ef8-436c-932d-1d29095cd096.png)
+
 I will be using the well known housing data set for this project.
 
 ## Introduction
